@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: "Hi, I'm Mahim!"
 layout: "single"
 toc: true
@@ -15,7 +16,7 @@ Welcome. This site is currently just a launchpad to other places.
 
 My [LinkedIn](https://www.linkedin.com/in/mahimnal/) will usually have the latest updates when it comes to any professional pursuits and my career.
 
-This [Portfolio](https://mahim.myportfolio.com/) contains my photography and video projects and will be updated with some prior and nearly all future projects. I do have an [Instagram](https://www.instagram.com/mahim.jpeg/), but it's not as much of a priority as the portfolio.
+This [Portfolio](https://mahim.myportfolio.com/) contains my photography and video projects and will be updated with some prior and nearly all future projects. I do have an [Instagram](https://www.instagram.com/mahim.n/), but it's not as much of a priority as the portfolio.
 
 ## What I'm Working On
 
